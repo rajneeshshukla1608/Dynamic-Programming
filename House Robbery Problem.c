@@ -1,3 +1,7 @@
+/*
+Time Complexity - O(n)
+Space complexity - O(n)
+*/
 #include <stdio.h>
 
 int RobHouseTD(int *houses, int *dp, int n){
