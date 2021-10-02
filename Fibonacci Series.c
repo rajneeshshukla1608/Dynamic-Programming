@@ -1,3 +1,7 @@
+/*
+Time Complexit - O(n)
+Space Complexity - O(n)
+*/
 #include<stdio.h>
 //Top Down Approach Starts here -
 
