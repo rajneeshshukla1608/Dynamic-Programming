@@ -1,3 +1,9 @@
+/*
+The Time And Space complexity will be -
+Time complexit - Top Down - O(n), Bottom Up - O(n) 
+Space Complexity - Top Bottom - O(n), Bottom Up - O(n)
+
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #define infinity 99999;
