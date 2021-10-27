@@ -1,2 +1,2 @@
-# DP-Problems - This One Of the Topic in Algorithm which is most probably asked
+# DP-Problems - The most importsnt Topic ever in Algorithm which is most probably asked in the interviews
 This repository consist of upcoming Dynamic programming Problems with PDF Notes ASAP Solving!!!
