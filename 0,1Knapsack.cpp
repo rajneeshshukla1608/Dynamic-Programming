@@ -1,4 +1,7 @@
-/*This is the memoization technique of the 0, 1 KnapsackTD using dynamic programming*/
+/*
+This code consist of memoization as well as tablorization technique of 0,1 Knapsack
+Time complexity = O(n^2)
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
