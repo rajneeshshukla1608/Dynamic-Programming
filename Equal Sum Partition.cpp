@@ -38,5 +38,5 @@ int main(){
     {
         cin>>arr[i];
     }
-    // cout<<EqualSumPartition(arr, n);    
+    cout<<EqualSumPartition(arr, n);    
 }
